@@ -15,7 +15,7 @@
 		color: #000;
 	}
 	span {
-		color: crimson
+		color: #dc143c
 	}
 
 	.btn {
@@ -28,13 +28,13 @@
 		border-color: #008000;
 		transition: background-color 2s;
 	}
+	.btn-increase:hover {
+		background-color: #008000
+	}
 	.btn-decrease {
 		background-color: #ff1645;
 		border-color: #dc143c;
 		transition: background-color 2s;
-	}
-	.btn-increase:hover {
-		background-color: #008000
 	}
 	.btn-decrease:hover {
 		background-color: #dc143c;
